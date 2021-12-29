@@ -35,8 +35,8 @@
 <vue-word-cloud
   font-size-ratio=0.09
   style="
-    height: 480px;
-    width: 640px;
+    height: 500px;
+    width: 850px;
   "
   :words="verdeling"
   :color="([, weight]) => weight > 1000 ? 'Lime' : weight > 500 ? 'mediumspringgreen' : weight > 100 ? 'seagreen' : 'darkgreen'"

@@ -1,5 +1,9 @@
 # eurosong-festival
 
+## Install wordcloud
+
+npm i vuewordcloud
+
 ## Project setup
 ```
 yarn install

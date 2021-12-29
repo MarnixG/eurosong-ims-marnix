@@ -1,0 +1,26 @@
+body {
+    background-color: $primary-blue;
+    color: $primary-white;
+    margin: 50px;
+}
+
+th {
+    text-align: left;
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse;
+}
+
+table {
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse;
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+
+td {
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse;
+}
